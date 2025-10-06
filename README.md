@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **on a graphic novel in the space noir genre, which is a mixture of space odyssey and science fiction noir.**
 
-- 👨‍💻 All of my projects are available at ["Webpage"]("Webpage")
+- 👨‍💻 All of my projects are available at ["Webpage"]("[Webpage](https://janosdeak.github.io/)")
 
 - 📝 I regularly write articles on ["blog link"]("blog link")
 
