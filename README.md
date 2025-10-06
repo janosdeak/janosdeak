@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janosdeakmark&label=Profile%20views&color=0e75b6&style=flat" alt="janosdeakmark" /> </p>
 
-- 🔭 I’m currently working on a **short story about cloning.**
+- 🔭 I’m currently working on a **novel about the experiences of the Hungarian youth in Slovakia.**
+- Completed a sci-fi short-story about cloning.
 
 - 👯 I’m looking to collaborate on **on a graphic novel in the space noir genre, which is a mixture of space odyssey and science fiction noir.**
 
