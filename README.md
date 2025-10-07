@@ -15,5 +15,3 @@
 
 - :deciduous_tree: My thoughts expressed in a form of a [blog](https://janosdeak.github.io/blog).
 
-- :money_with_wings: Seeking funding opportunities to be able to devote myself fully to writing and philosophizing about the fundamentals of physics. 
-
